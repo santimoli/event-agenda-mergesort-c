@@ -1,0 +1,13 @@
+Debug/
+Release/
+x64/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.suo
+*.user
+.vs/
+ipch/
+*.aps
+RelatorioAEDprojeto2.pdf
